@@ -38,7 +38,7 @@
       article.innerHTML = `
         <div class="project-image-wrap">
           <img src="${project.image}" alt="${project.alt}" loading="lazy">
-          <div class="project-overlay"><span>VER PROYECTO</span><span class="project-open" aria-hidden="true">↗</span></div>
+          <div class="project-overlay"><span>VER PROYECTO</span><span class="project-open" aria-hidden="true"></span></div>
         </div>
         <div class="project-meta">
           <div><h3>${project.title}</h3><p>${categoryNames[project.category]} · ${project.subtitle}</p></div>
@@ -133,7 +133,7 @@
 
   document.querySelectorAll("[data-instagram]").forEach(link => {
     if (config.instagramUrl) link.href = config.instagramUrl;
-    if (config.instagramHandle) link.textContent = `${config.instagramHandle} ↗`;
+    if (config.instagramHandle) link.textContent = `${config.instagramHandle} `;
   });
   document.querySelectorAll("[data-location]").forEach(el => el.textContent = config.location || "Añade tu ubicación");
   document.querySelectorAll("[data-hours]").forEach(el => el.textContent = config.hours || "Con cita previa");
