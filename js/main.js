@@ -57,19 +57,195 @@
       alt: "Manicura semipermanente con refuerzo en uñas almendradas, combinando esmalte burdeos, rosa empolvado, detalles de manicura francesa y decoración floral blanca y burdeos."
     },
     
+  {
+    id: 7,
+    category: "facial",
+    title: "Limpieza Facial Premium",
+    subtitle: "Punta de diamante · Ultrasonidos",
+    description: "Tratamiento facial de limpieza profunda que combina la exfoliación mediante punta de diamante con la tecnología de la paleta de ultrasonidos. Ayuda a eliminar células muertas, retirar impurezas y mejorar la textura de la piel. Una experiencia de renovación facial que deja el rostro más suave, luminoso y con una agradable sensación de frescura.",
+    image: "https://images.pexels.com/photos/29648627/pexels-photo-29648627.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    alt: "Tratamiento profesional de microdermoabrasión facial con aparatología en un centro de estética."
+  },
+
+  {
+    id: 8,
+    category: "facial",
+    title: "Hidrafacial",
+    subtitle: "Limpieza profunda · Hidratación",
+    description: "Tratamiento facial con aparatología especializada que combina limpieza, exfoliación e hidratación. Mediante diferentes fases de aplicación se trabaja la eliminación de impurezas y la renovación superficial de la piel, aportando una apariencia más fresca, uniforme y luminosa. Ideal para quienes buscan mejorar el aspecto de su rostro y disfrutar de una piel cuidada y revitalizada.",
+    image: "https://images.pexels.com/photos/18209809/pexels-photo-18209809.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    alt: "Tratamiento Hydrafacial realizado por una profesional mediante aparatología estética en una cabina moderna."
+  },
+
+  {
+    id: 9,
+    category: "facial",
+    title: "Microneedling con Exosomas",
+    subtitle: "Hidratación profunda · Renovación facial",
+    description: "Tratamiento facial avanzado que combina la técnica de microneedling con la aplicación de productos cosméticos con exosomas. Mediante un dispositivo de microagujas se trabaja la superficie cutánea para favorecer la penetración de los activos cosméticos. Un tratamiento orientado al cuidado, la hidratación y la mejora de la apariencia y textura de la piel.",
+    image: "https://images.pexels.com/photos/30809949/pexels-photo-30809949.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    alt: "Procedimiento profesional de microneedling facial con dispositivo de microagujas en una clínica estética."
+  },
+
+  {
+    id: 10,
+    category: "facial",
+    title: "IPL Facial",
+    subtitle: "Luz pulsada intensa · Cuidado de la piel",
+    description: "Tratamiento facial mediante tecnología IPL (luz pulsada intensa), orientado a mejorar el aspecto general de la piel. La luz pulsada permite trabajar diferentes preocupaciones estéticas, como la apariencia de manchas y rojeces, siempre tras una valoración previa de la piel. Una tecnología avanzada para personalizar los tratamientos faciales.",
+    image: "https://images.pexels.com/photos/32078961/pexels-photo-32078961.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    alt: "Tratamiento facial de luz y tecnología estética aplicado por una profesional en una cabina de belleza."
+  },
+
+  {
+    id: 11,
+    category: "facial",
+    title: "Peeling Químico",
+    subtitle: "Exfoliación química · Renovación cutánea",
+    description: "Tratamiento facial basado en la aplicación controlada de activos exfoliantes que ayudan a renovar las capas superficiales de la piel. Se adapta a las necesidades y características de cada rostro, trabajando la textura, luminosidad y uniformidad del tono. Una opción para quienes desean mejorar el aspecto de su piel mediante un protocolo personalizado.",
+    image: "https://images.pexels.com/photos/37229298/pexels-photo-37229298.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    alt: "Sesión de tratamiento facial profesional en cabina estética con aplicación de productos cosméticos."
+  },
+
+  {
+    id: 12,
+    category: "facial",
+    title: "Bellaction Duo Facial",
+    subtitle: "Aparatología estética · Tratamiento facial",
+    description: "Tratamiento facial realizado con aparatología estética Bellaction Duo. Una experiencia de cuidado personalizado que trabaja la zona facial mediante técnicas de estimulación y masaje mecánico. El protocolo se adapta a las características y necesidades de cada persona, ofreciendo una sesión de cuidado y bienestar facial.",
+    image: "https://images.pexels.com/photos/3736280/pexels-photo-3736280.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    alt: "Aparatología estética profesional preparada para realizar tratamientos faciales en un centro de belleza."
+  },
+
+  {
+    id: 13,
+    category: "facial",
+    title: "INDIBA Facial",
+    subtitle: "Radiofrecuencia · Rejuvenecimiento estético",
+    description: "Tratamiento facial con tecnología INDIBA basado en radiofrecuencia a una frecuencia específica para el cuidado de la piel. Se trabaja mediante un protocolo personalizado orientado a mejorar el aspecto, la elasticidad y la luminosidad del rostro. Una experiencia de bienestar facial que combina tecnología avanzada y cuidado profesional.",
+    image: "https://images.pexels.com/photos/3738345/pexels-photo-3738345.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    alt: "Tratamiento facial con aparatología estética en una cabina profesional de belleza."
+  },
+
+  {
+    id: 14,
+    category: "facial",
+    title: "Lifting de Pestañas",
+    subtitle: "Curvatura natural · Mirada definida",
+    description: "Tratamiento de belleza diseñado para realzar las pestañas naturales mediante una técnica de elevación y curvatura desde la raíz. Permite conseguir una mirada más abierta y unas pestañas visualmente más largas y definidas, sin necesidad de extensiones. El resultado es una mirada natural, elegante y cuidada.",
+    image: "https://images.pexels.com/photos/5128222/pexels-photo-5128222.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    alt: "Profesional realizando un tratamiento de lifting de pestañas en una clienta."
+  },
+
+  {
+    id: 15,
+    category: "facial",
+    title: "Lifting y Laminado de Cejas",
+    subtitle: "Diseño de cejas · Efecto peinado",
+    description: "Tratamiento de diseño y laminado de cejas que permite moldear y fijar el vello para conseguir una apariencia más definida, ordenada y uniforme. Se trabaja la dirección de cada pelo para conseguir un efecto de mayor volumen y unas cejas visualmente más estructuradas, respetando la forma natural del rostro.",
+    image: "https://images.pexels.com/photos/33580445/pexels-photo-33580445.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    alt: "Profesional realizando un tratamiento de diseño y cuidado de cejas en un centro de estética."
+  },
+
+  {
+    id: 16,
+    category: "facial",
+    title: "Depilación Facial",
+    subtitle: "Hilo · Cera · Pinzas",
+    description: "Servicio de depilación facial personalizada mediante diferentes técnicas de eliminación del vello, como hilo, cera o pinzas. Se trabaja cuidadosamente cada zona para conseguir un acabado limpio y definido, respetando las características de la piel y la forma natural del rostro. Ideal para mantener unas cejas perfectamente perfiladas y una piel cuidada.",
+    image: "https://images.pexels.com/photos/8558244/pexels-photo-8558244.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    alt: "Tratamiento profesional de depilación facial con hilo para definir las cejas."
+  },
+
+  // =========================
+  // CORPORAL
+  // =========================
+
+  {
+    id: 17,
+    category: "corporal",
+    title: "INDIBA Corporal",
+    subtitle: "Radiofrecuencia · Bienestar corporal",
+    description: "Tratamiento corporal realizado mediante tecnología INDIBA, basado en radiofrecuencia para trabajar diferentes zonas del cuerpo. Se desarrolla mediante sesiones personalizadas que combinan aparatología y técnicas profesionales de aplicación, orientadas al cuidado corporal y a mejorar el aspecto de la piel.",
+    image: "https://images.pexels.com/photos/3736521/pexels-photo-3736521.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    alt: "Aparatología estética moderna utilizada para tratamientos corporales en una cabina profesional."
+  },
+
+  {
+    id: 18,
+    category: "corporal",
+    title: "Bellaction Duo Corporal",
+    subtitle: "Aparatología estética · Remodelación corporal",
+    description: "Tratamiento corporal con aparatología Bellaction Duo, diseñado para trabajar distintas zonas del cuerpo mediante estimulación y masaje mecánico. Se realiza siguiendo un protocolo adaptado a las necesidades de cada persona, ofreciendo una experiencia de cuidado corporal y bienestar.",
+    image: "https://images.pexels.com/photos/3736280/pexels-photo-3736280.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    alt: "Equipamiento profesional de aparatología estética para tratamientos corporales."
+  },
+
+  {
+    id: 19,
+    category: "corporal",
+    title: "Masajes Corporales",
+    subtitle: "Drenantes · Liporeductores · Relajantes",
+    description: "Experiencias de cuidado corporal adaptadas a diferentes necesidades mediante técnicas manuales de masaje. Los masajes drenantes están orientados a favorecer el bienestar y la sensación de ligereza; los liporeductores trabajan zonas corporales específicas mediante maniobras especializadas; y los relajantes proporcionan un momento de desconexión y descanso. Cada sesión se personaliza según las preferencias y objetivos de la persona.",
+    image: "https://images.pexels.com/photos/6628655/pexels-photo-6628655.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    alt: "Sesión de masaje corporal profesional en una cabina de estética y bienestar."
+  },
+
+  {
+    id: 20,
+    category: "corporal",
+    title: "Maderoterapia",
+    subtitle: "Masaje corporal · Instrumentos de madera",
+    description: "Tratamiento corporal que utiliza diferentes instrumentos de madera diseñados para realizar maniobras de masaje sobre distintas zonas del cuerpo. Mediante movimientos y presiones controladas se trabaja el bienestar corporal y el aspecto de la piel. Una técnica manual que combina tradición, cuidado y una experiencia de masaje personalizada.",
+    image: "https://images.pexels.com/photos/10893346/pexels-photo-10893346.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    alt: "Tratamiento corporal de maderoterapia realizado con rodillo de madera sobre la espalda de una clienta."
+  },
+
+  {
+    id: 21,
+    category: "corporal",
+    title: "Fotodepilación IPL",
+    subtitle: "Luz pulsada intensa · Depilación",
+    description: "Tratamiento de fotodepilación mediante tecnología IPL (luz pulsada intensa), que utiliza pulsos de luz para actuar sobre el folículo piloso. Se aplica en las zonas corporales seleccionadas siguiendo un protocolo personalizado y una valoración previa de la piel y del vello. Una alternativa tecnológica para quienes buscan reducir progresivamente el crecimiento del vello.",
+    image: "https://images.pexels.com/photos/10822318/pexels-photo-10822318.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    alt: "Tratamiento de fotodepilación IPL realizado con un dispositivo de luz pulsada sobre el brazo."
+  }
+];
+    //TRATAMIENTOS
+    
+    //FACIAL
+    //Limpiezas de con punta de diamante y paleta de ultrasonidos
+    //Limpiezas con aparatologia hidrafacial
+    //Tratamientos de hidratacion microneedling con exosomas
+    //Tratamientos de IPL luz pulsada intensa
+    //Tratamientos de peeling quimicos
+    //Tratamientos con bellaction duo
+    //Tratamientos con INDIBA
+    //Lifting de pestañas
+    //Lifting y laminado de cejas
+    //Depilacion con hilo/cera/pinzas
+    
+    //CORPORAL
+    //Tratamientos con INDIBA
+    //Tratamientos con bellaction duo
+    //Masajes corporales drenantes, liporeductores, relajantes
+    //Tratamientos de maderoterapia
+    //Fotodepilacion con IPL
+
+
     //{ id: 13, category: "uñas", title: "Nude elegance", subtitle: "Manicura · Esmaltado", description: "Una manicura delicada en tonos nude, con acabado brillante y una forma cuidada para un resultado limpio, elegante y atemporal.", image: "https://images.unsplash.com/photo-1604654894610-df63bc536371?w=900&q=85", alt: "Manicura en tonos suaves" },
     //{ id: 2, category: "uñas", title: "Pink details", subtitle: "Nail art · Diseño", description: "Diseño femenino con pequeños detalles decorativos. Una propuesta sutil para dar personalidad a tus uñas sin perder elegancia.", image: "https://images.unsplash.com/photo-1610992015732-2449b76344bc?w=900&q=85", alt: "Diseño de uñas rosa" },
     //{ id: 3, category: "uñas", title: "Classic red", subtitle: "Manicura · Color", description: "El clásico rojo reinventado: un color intenso, uniforme y sofisticado que nunca pasa de moda.", image: "https://images.unsplash.com/photo-1632345031435-8727f6897d53?w=900&q=85", alt: "Manicura roja" },
     //{ id: 4, category: "peluqueria", title: "Soft waves", subtitle: "Peinado · Ondas", description: "Ondas suaves con movimiento y brillo natural. Un acabado versátil, perfecto tanto para una ocasión especial como para un look diario.", image: "https://images.unsplash.com/photo-1524250502761-1ac6f2e30d43?w=900&q=85", alt: "Cabello con ondas suaves" },
     //{ id: 5, category: "peluqueria", title: "Golden glow", subtitle: "Color · Luminosidad", description: "Un trabajo de color pensado para aportar dimensión, luz y naturalidad, respetando la armonía del cabello.", image: "https://images.unsplash.com/photo-1560869713-7d0a29430803?w=900&q=85", alt: "Resultado de peluquería" },
     //{ id: 6, category: "peluqueria", title: "The perfect finish", subtitle: "Styling · Acabado", description: "Un peinado pulido y elegante donde el acabado y el movimiento son los protagonistas.", image: "https://images.unsplash.com/photo-1595476108010-b4d1f102b1b1?w=900&q=85", alt: "Peinado profesional" },
-    { id: 7, category: "maquillaje", title: "Natural glow", subtitle: "Maquillaje · Natural", description: "Piel luminosa, tonos suaves y un acabado fresco que realza los rasgos sin ocultar la belleza natural.", image: "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=900&q=85", alt: "Maquillaje natural" },
-    { id: 8, category: "maquillaje", title: "Golden hour", subtitle: "Maquillaje · Evento", description: "Una propuesta cálida y sofisticada para ocasiones especiales, con luz, definición y equilibrio.", image: "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?w=900&q=85", alt: "Productos de maquillaje y belleza" },
-    { id: 9, category: "maquillaje", title: "Soft glam", subtitle: "Maquillaje · Glam", description: "Un look soft glam con ojos definidos, piel trabajada y labios equilibrados. Elegante y favorecedor.", image: "https://images.unsplash.com/photo-1522335789203-aefd1fc54bc9?w=900&q=85", alt: "Look de maquillaje" },
-    { id: 10, category: "tratamientos", title: "Skin ritual", subtitle: "Facial · Cuidado", description: "Un momento dedicado a la piel: preparación, cuidado y una rutina adaptada a las necesidades de cada persona.", image: "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=900&q=85", alt: "Tratamiento facial en cabina" },
-    { id: 11, category: "tratamientos", title: "Pure relaxation", subtitle: "Bienestar · Facial", description: "Una experiencia relajante para desconectar y dedicar tiempo al cuidado personal en un ambiente tranquilo.", image: "https://images.unsplash.com/photo-1540555700478-4be289fbece2?w=900&q=85", alt: "Ambiente de spa y bienestar" },
-    { id: 12, category: "tratamientos", title: "Glow care", subtitle: "Piel · Hidratación", description: "Cuidado orientado a aportar confort e hidratación, con atención personalizada y productos adecuados a cada piel.", image: "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=900&q=85", alt: "Productos para el cuidado de la piel" }
-  ];
+    //{ id: 7, category: "maquillaje", title: "Natural glow", subtitle: "Maquillaje · Natural", description: "Piel luminosa, tonos suaves y un acabado fresco que realza los rasgos sin ocultar la belleza natural.", image: "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=900&q=85", alt: "Maquillaje natural" },
+    //{ id: 8, category: "maquillaje", title: "Golden hour", subtitle: "Maquillaje · Evento", description: "Una propuesta cálida y sofisticada para ocasiones especiales, con luz, definición y equilibrio.", image: "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?w=900&q=85", alt: "Productos de maquillaje y belleza" },
+    //{ id: 9, category: "maquillaje", title: "Soft glam", subtitle: "Maquillaje · Glam", description: "Un look soft glam con ojos definidos, piel trabajada y labios equilibrados. Elegante y favorecedor.", image: "https://images.unsplash.com/photo-1522335789203-aefd1fc54bc9?w=900&q=85", alt: "Look de maquillaje" },
+    //{ id: 10, category: "tratamientos", title: "Skin ritual", subtitle: "Facial · Cuidado", description: "Un momento dedicado a la piel: preparación, cuidado y una rutina adaptada a las necesidades de cada persona.", image: "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=900&q=85", alt: "Tratamiento facial en cabina" },
+    //{ id: 11, category: "tratamientos", title: "Pure relaxation", subtitle: "Bienestar · Facial", description: "Una experiencia relajante para desconectar y dedicar tiempo al cuidado personal en un ambiente tranquilo.", image: "https://images.unsplash.com/photo-1540555700478-4be289fbece2?w=900&q=85", alt: "Ambiente de spa y bienestar" },
+    //{ id: 22, category: "tratamientos", title: "Glow care", subtitle: "Piel · Hidratación", description: "Cuidado orientado a aportar confort e hidratación, con atención personalizada y productos adecuados a cada piel.", image: "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=900&q=85", alt: "Productos para el cuidado de la piel" }
+ 
 
   const track = document.querySelector("#portfolio-track");
   const count = document.querySelector("#portfolio-count");
@@ -77,8 +253,14 @@
   const toast = document.querySelector("#toast");
   let toastTimer;
 
-  const categoryNames = { uñas: "Uñas", peluqueria: "Peluquería", maquillaje: "Maquillaje", tratamientos: "Tratamientos" };
-
+  const categoryNames = {
+  "uñas": "Uñas",
+  "peluqueria": "Peluquería",
+  "maquillaje": "Maquillaje",
+  "tratamientos": "Tratamientos",
+  "facial": "Tratamientos faciales",
+  "corporal": "Tratamientos corporales"
+};
   function renderProjects(filter = "todos") {
     if (!track) return;
     const filtered = filter === "todos" ? projects : projects.filter(p => p.category === filter);
@@ -110,17 +292,28 @@
     if (count) count.textContent = `${filtered.length} ${filtered.length === 1 ? "proyecto" : "proyectos"}`;
   }
 
-  function openProject(project) {
-    document.querySelector("#dialog-image").src = project.image;
-    document.querySelector("#dialog-image").alt = project.alt;
-    document.querySelector("#dialog-category").textContent = categoryNames[project.category].toUpperCase();
-    document.querySelector("#dialog-title").textContent = project.title;
-    document.querySelector("#dialog-description").textContent = project.description;
-    if (typeof dialog.showModal === "function") {
-      dialog.showModal();
-      document.body.classList.add("dialog-open");
-    }
+function openProject(project) {
+
+  const categoryName =
+    categoryNames[project.category] || project.category;
+
+  const image = document.querySelector("#dialog-image");
+  const category = document.querySelector("#dialog-category");
+  const title = document.querySelector("#dialog-title");
+  const description = document.querySelector("#dialog-description");
+
+  image.src = project.image;
+  image.alt = project.alt || project.title;
+
+  category.textContent = categoryName.toUpperCase();
+  title.textContent = project.title;
+  description.textContent = project.description;
+
+  if (typeof dialog.showModal === "function") {
+    dialog.showModal();
+    document.body.classList.add("dialog-open");
   }
+}
 
   document.querySelectorAll(".filter-button").forEach(button => {
     button.addEventListener("click", () => {
