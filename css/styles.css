@@ -652,7 +652,7 @@ blockquote em {
     border: 1px solid transparent;
     background: transparent;
     color: var(--muted);
-    font-size: 10px;
+    font-size: 15px;
     padding: 9px 13px;
     cursor: pointer;
     transition: .2s

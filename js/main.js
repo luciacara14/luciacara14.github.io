@@ -3,6 +3,9 @@
 
   const config = window.SITE_CONFIG || {};
   const projects = [
+    // =========================
+    // UÑAS
+    // =========================
     {
       id: 1,
       category: "uñas",
@@ -38,7 +41,7 @@
       image: "imgs/uñas/semipermanenteNatural2.png",
       alt: "Uñas cortas de forma cuadrada con esmalte semipermanente coral rosado brillante y pequeñas flores decorativas multicolor."
     },
-    {
+    /*{
       id: 5,
       category: "uñas",
       title: "Nude Abstracto",
@@ -46,7 +49,7 @@
       description: "Manicura semipermanente sobre una delicada base rosa nude translúcida con acabado brillante. Cada uña incorpora pequeños trazos curvos y formas abstractas en tonos plateados y efecto cromado, creando un diseño artístico y moderno. La combinación de tonos naturales con detalles metalizados aporta luminosidad y sofisticación sin recargar el conjunto. Ideal para quienes buscan una manicura discreta con un toque original.",
       image: "imgs/uñas/semipermanenteNatural3.png",
       alt: "Manicura semipermanente en tono nude rosado con uñas cortas redondeadas y decoración abstracta plateada de efecto cromado."
-    },
+    },*/
     {
       id: 6,
       category: "uñas",
@@ -56,6 +59,9 @@
       image: "imgs/uñas/semipermanenteRefu.png",
       alt: "Manicura semipermanente con refuerzo en uñas almendradas, combinando esmalte burdeos, rosa empolvado, detalles de manicura francesa y decoración floral blanca y burdeos."
     },
+  // =========================
+  // FACIAL
+  // =========================
     
   {
     id: 7,
@@ -209,6 +215,64 @@
     description: "Tratamiento de fotodepilación mediante tecnología IPL (luz pulsada intensa), que utiliza pulsos de luz para actuar sobre el folículo piloso. Se aplica en las zonas corporales seleccionadas siguiendo un protocolo personalizado y una valoración previa de la piel y del vello. Una alternativa tecnológica para quienes buscan reducir progresivamente el crecimiento del vello.",
     image: "https://images.pexels.com/photos/10822318/pexels-photo-10822318.jpeg?auto=compress&cs=tinysrgb&w=1200",
     alt: "Tratamiento de fotodepilación IPL realizado con un dispositivo de luz pulsada sobre el brazo."
+  },
+  // =========================
+  // MAQUILLAJES
+  // =========================
+   {
+    id: 22,
+    category: "maquillaje",
+    title: "Flamenca Floral",
+    subtitle: "Maquillaje de fiesta · Estilo flamenco",
+    description: "Maquillaje de inspiración flamenca que combina sombras en tonos rosados y malvas con un delineado negro intenso que realza la mirada. El acabado incluye una piel luminosa y uniforme, mejillas suavemente definidas y labios en un favorecedor tono rosa. El conjunto se complementa con un elegante recogido adornado con grandes flores en tonos fucsia y naranja, creando un look lleno de personalidad, color y tradición.",
+    image: "imgs/maquillajes/flamenca.jpg",
+    alt: "Maquillaje de fiesta con sombras rosadas y malvas, delineado negro, labios rosa y recogido decorado con grandes flores fucsias y naranjas."
+  },
+  {
+    id: 23,
+    category: "maquillaje",
+    title: "Belleza Natural",
+    subtitle: "Maquillaje social · Acabado natural",
+    description: "Maquillaje social de acabado natural que realza los rasgos del rostro sin perder frescura y elegancia. Se combina una piel uniforme y luminosa con sombras en tonos neutros, una mirada suavemente definida y labios en un tono rosa natural. El resultado se completa con un peinado de rizos voluminosos y definidos, aportando movimiento y un estilo femenino y sofisticado.",
+    image: "imgs/maquillajes/belleza-natural.jpg",
+    alt: "Maquillaje social natural con sombras neutras, piel luminosa, labios rosados y cabello rubio rizado con volumen."
+  },
+
+  {
+    id: 24,
+    category: "maquillaje",
+    title: "Fantasy Editorial",
+    subtitle: "Maquillaje artístico · Caracterización",
+    description: "Propuesta de maquillaje artístico y editorial que apuesta por el contraste de colores y la creatividad. Destacan las amplias aplicaciones de sombra blanca alrededor de los ojos, trabajadas con formas gráficas que crean un efecto visual atrevido y original. El look se completa con labios rojos intensos y una piel luminosa, consiguiendo una composición de inspiración fantasía y alta caracterización.",
+    image: "imgs/maquillajes/fantasy-editorial.jpg",
+    alt: "Maquillaje artístico editorial con grandes aplicaciones de sombra blanca alrededor de los ojos, labios rojos intensos y acabado luminoso."
+  },
+  {
+    id: 25,
+    category: "maquillaje",
+    title: "Smokey Glam",
+    subtitle: "Maquillaje de noche · Ojos ahumados",
+    description: "Maquillaje de noche sofisticado protagonizado por unos intensos ojos ahumados en tonos negros, grises y marrones. El difuminado se extiende hacia el exterior del ojo para conseguir una mirada profunda y elegante, acompañado de un delineado definido y pestañas destacadas. La piel mantiene un acabado natural y luminoso, mientras que los labios en tonos nude equilibran el conjunto y dejan todo el protagonismo a la mirada.",
+    image: "imgs/maquillajes/smokey-glam.jpg",
+    alt: "Maquillaje de noche con ojos ahumados en tonos oscuros, delineado negro, pestañas definidas y labios nude."
+  },
+  {
+    id: 26,
+    category: "maquillaje",
+    title: "Elegancia Atemporal",
+    subtitle: "Maquillaje social · Piel natural",
+    description: "Maquillaje social elegante y favorecedor, diseñado para realzar la belleza natural y respetar los rasgos del rostro. Se trabaja una piel uniforme con un acabado luminoso, sombras en tonos tierra y una mirada suavemente delineada. Los labios en tonos nude rosados aportan equilibrio y naturalidad. Una propuesta sofisticada y versátil que demuestra que la elegancia no depende de la intensidad del maquillaje.",
+    image: "imgs/maquillajes/elegancia-atemporal.jpg",
+    alt: "Maquillaje social elegante con sombras marrones suaves, delineado discreto, piel luminosa y labios nude rosados."
+  },
+  {
+    id: 27,
+    category: "maquillaje",
+    title: "Dark Glam",
+    subtitle: "Maquillaje de noche · Estilo dramático",
+    description: "Maquillaje de inspiración dramática que combina una mirada intensa con unos labios rojos profundos. Los ojos se trabajan con sombras oscuras y difuminados que aportan profundidad, mientras que la piel mantiene un acabado cuidado y natural. El contraste entre los labios rojos y la intensidad de la mirada crea un resultado sofisticado, atrevido y con mucha personalidad.",
+    image: "imgs/maquillajes/image.png",
+    alt: "Maquillaje de estilo dramático con ojos oscuros ahumados, labios rojo intenso y acabado sofisticado sobre un fondo oscuro."
   }
 ];
     //TRATAMIENTOS
