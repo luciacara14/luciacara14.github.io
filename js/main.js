@@ -452,4 +452,62 @@ function openProject(project) {
   document.querySelector("#year").textContent = new Date().getFullYear();
 
   renderProjects();
+// ===================================
+// SERVICE IMAGE LIGHTBOX
+// ===================================
+
+const lightbox = document.getElementById("imageLightbox");
+const lightboxImage = document.getElementById("lightboxImage");
+const lightboxTitle = document.getElementById("lightboxTitle");
+const closeButton = document.querySelector(".lightbox-close");
+
+const serviceCards = document.querySelectorAll(".service-card");
+
+function openLightbox(image, title) {
+    lightboxImage.src = image;
+    lightboxImage.alt = title;
+    lightboxTitle.textContent = title;
+
+    lightbox.classList.add("active");
+    lightbox.setAttribute("aria-hidden", "false");
+
+    document.body.style.overflow = "hidden";
+}
+
+function closeLightbox() {
+    lightbox.classList.remove("active");
+    lightbox.setAttribute("aria-hidden", "true");
+
+    document.body.style.overflow = "";
+
+    lightboxImage.src = "";
+}
+
+serviceCards.forEach(card => {
+    card.addEventListener("click", () => {
+        const image = card.dataset.image;
+        const title = card.dataset.title;
+
+        if (image) {
+            openLightbox(image, title);
+        }
+    });
+});
+
+// Cerrar con el botón
+closeButton.addEventListener("click", closeLightbox);
+
+// Cerrar pulsando fuera de la fotografía
+lightbox.addEventListener("click", (event) => {
+    if (event.target === lightbox) {
+        closeLightbox();
+    }
+});
+
+// Cerrar pulsando ESC
+document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape" && lightbox.classList.contains("active")) {
+        closeLightbox();
+    }
+});
 })();
