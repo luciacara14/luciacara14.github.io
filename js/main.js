@@ -220,6 +220,25 @@
   // MAQUILLAJES
   // =========================
    {
+      id: 27,
+      category: "maquillaje",
+      title: "Dark Glam",
+      subtitle: "Maquillaje de noche · Estilo dramático",
+      description: "Maquillaje de inspiración dramática que combina una mirada intensa con unos labios rojos profundos. Los ojos se trabajan con sombras oscuras y difuminados que aportan profundidad, mientras que la piel mantiene un acabado cuidado y natural. El contraste entre los labios rojos y la intensidad de la mirada crea un resultado sofisticado, atrevido y con mucha personalidad.",
+      image: "imgs/maquillajes/image.png",
+      alt: "Maquillaje de estilo dramático con ojos oscuros ahumados, labios rojo intenso y acabado sofisticado sobre un fondo oscuro."
+    },
+    {
+      id: 26,
+      category: "maquillaje",
+      title: "Elegancia Atemporal",
+      subtitle: "Maquillaje social · Piel natural",
+      description: "Maquillaje social elegante y favorecedor, diseñado para realzar la belleza natural y respetar los rasgos del rostro. Se trabaja una piel uniforme con un acabado luminoso, sombras en tonos tierra y una mirada suavemente delineada. Los labios en tonos nude rosados aportan equilibrio y naturalidad. Una propuesta sofisticada y versátil que demuestra que la elegancia no depende de la intensidad del maquillaje.",
+      image: "imgs/maquillajes/elegancia-atemporal.jpg",
+      alt: "Maquillaje social elegante con sombras marrones suaves, delineado discreto, piel luminosa y labios nude rosados."
+    },
+    
+   {
     id: 22,
     category: "maquillaje",
     title: "Flamenca Floral",
@@ -255,24 +274,6 @@
     description: "Maquillaje de noche sofisticado protagonizado por unos intensos ojos ahumados en tonos negros, grises y marrones. El difuminado se extiende hacia el exterior del ojo para conseguir una mirada profunda y elegante, acompañado de un delineado definido y pestañas destacadas. La piel mantiene un acabado natural y luminoso, mientras que los labios en tonos nude equilibran el conjunto y dejan todo el protagonismo a la mirada.",
     image: "imgs/maquillajes/smokey-glam.jpg",
     alt: "Maquillaje de noche con ojos ahumados en tonos oscuros, delineado negro, pestañas definidas y labios nude."
-  },
-  {
-    id: 26,
-    category: "maquillaje",
-    title: "Elegancia Atemporal",
-    subtitle: "Maquillaje social · Piel natural",
-    description: "Maquillaje social elegante y favorecedor, diseñado para realzar la belleza natural y respetar los rasgos del rostro. Se trabaja una piel uniforme con un acabado luminoso, sombras en tonos tierra y una mirada suavemente delineada. Los labios en tonos nude rosados aportan equilibrio y naturalidad. Una propuesta sofisticada y versátil que demuestra que la elegancia no depende de la intensidad del maquillaje.",
-    image: "imgs/maquillajes/elegancia-atemporal.jpg",
-    alt: "Maquillaje social elegante con sombras marrones suaves, delineado discreto, piel luminosa y labios nude rosados."
-  },
-  {
-    id: 27,
-    category: "maquillaje",
-    title: "Dark Glam",
-    subtitle: "Maquillaje de noche · Estilo dramático",
-    description: "Maquillaje de inspiración dramática que combina una mirada intensa con unos labios rojos profundos. Los ojos se trabajan con sombras oscuras y difuminados que aportan profundidad, mientras que la piel mantiene un acabado cuidado y natural. El contraste entre los labios rojos y la intensidad de la mirada crea un resultado sofisticado, atrevido y con mucha personalidad.",
-    image: "imgs/maquillajes/image.png",
-    alt: "Maquillaje de estilo dramático con ojos oscuros ahumados, labios rojo intenso y acabado sofisticado sobre un fondo oscuro."
   }
 ];
     //TRATAMIENTOS
