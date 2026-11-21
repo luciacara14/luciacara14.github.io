@@ -32,7 +32,7 @@
       image: "imgs/uñas/semipermanenteNatural.png",
       alt: "Manicura semipermanente en color rojo cereza intenso con uñas de forma ovalada almendrada y acabado brillante."
     },
-    {
+    /*{
       id: 4,
       category: "uñas",
       title: "Coral Floral",
@@ -41,7 +41,7 @@
       image: "imgs/uñas/semipermanenteNatural2.png",
       alt: "Uñas cortas de forma cuadrada con esmalte semipermanente coral rosado brillante y pequeñas flores decorativas multicolor."
     },
-    /*{
+    {
       id: 5,
       category: "uñas",
       title: "Nude Abstracto",
