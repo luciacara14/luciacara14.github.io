@@ -930,7 +930,7 @@ blockquote {
 
 .contact-detail>span {
     display: block;
-    font-size: 8px;
+    font-size: 13px;
     letter-spacing: .17em;
     color: var(--rose-deep);
     margin-bottom: 5px
@@ -1044,7 +1044,7 @@ blockquote {
 .dialog-image-wrap img {
     width: 100%;
     height: 100%;
-    object-fit: cover
+    object-fit: contain
 }
 
 .dialog-copy {
